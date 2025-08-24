@@ -13,7 +13,7 @@ The goal is to analyze customer behavior, identify churn patterns, and provide a
 - SQL (data extraction and cleaning)  
 - Power BI (data modeling & dashboarding)  
 - Excel/CSV (dataset handling)  
-
+- Python (Machine Learning)  
 ---
 
 This project is part of my **analytics portfolio** and demonstrates how to translate raw data into business insights using modern BI tools.
